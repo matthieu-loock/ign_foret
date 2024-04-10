@@ -1,0 +1,1 @@
+En partant des couches "formations végétales" de la BD Forêt V2, j'ai agrégé les données à l'échelle nationale puis calculé le taux de couverture pour chacun d'entre eux entre la surface du département et la surface couverte par les dites formations végétales. Ce taux est indiqué en étiquette dans le centroïde du département.
